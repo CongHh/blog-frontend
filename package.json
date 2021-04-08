@@ -7,11 +7,12 @@
     "build": "gridsome build"
   },
   "dependencies": {
-    "gridsome": "^0.7.0",
-    "vuex": "3.0.1",
-    "js-cookie": "2.2.0",
+    "@gridsome/source-strapi": "^0.2.0",
     "axios": "0.17.1",
-    "mavon-editor": "^2.5.2"
+    "gridsome": "^0.7.0",
+    "js-cookie": "2.2.0",
+    "mavon-editor": "^2.5.2",
+    "vuex": "3.0.1"
   },
   "devDependencies": {
     "element-ui": "^2.15.1"
